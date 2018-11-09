@@ -4,8 +4,6 @@
 
 <!-- TOC depthFrom:2 depthTo:3 -->
 
-- [项目步骤](#项目步骤)
-    - [应用的骨架](#应用的骨架)
 - [项目使用说明](#项目使用说明)
     - [Development server](#development-server)
     - [Code scaffolding](#code-scaffolding)
@@ -15,17 +13,6 @@
     - [Further help](#further-help)
 
 <!-- /TOC -->
-
-## 项目步骤
-
-### 应用的骨架
-
-- 设置开发环境：
-  - 安装 Node.js 的 8.x 或 10.x 版本。
-  - 执行 `npm install -g @angular/cli` 命令，安装 **Angular CLI**。
-- 执行 `ng new angular-tour-of-heroes` 命令，创建新的工作空间，并初始化应用项目。
-- 执行 `ng serve --open` 启动服务器，访问 http://localhost:4200/。
-- 修改此应用。
 
 ## 项目使用说明
 
