@@ -10,8 +10,8 @@
   position: relative;
   cursor: pointer;
   background-color: #EEEEEE;
-  margin: 0.5em;
-  padding: 0.3em 0;
+  margin: .5em;
+  padding: .3em 0;
   height: 1.6em;
   border-radius: 4px;
 }
@@ -19,7 +19,7 @@
 .heroes li:hover {
   color: #607D8B;
   background-color: #DDDDDD;
-  left: 0.1em;
+  left: .1em;
 }
 
 .heroes a {
@@ -46,7 +46,7 @@
   height: 1.8em;
   min-width: 16px;
   text-align: right;
-  margin-right: 0.8em;
+  margin-right: .8em;
   border-radius: 4px 0 0 4px;
 }
 
