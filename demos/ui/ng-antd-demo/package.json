@@ -35,7 +35,7 @@
     "tslib": "^1.9.0",
     "zone.js": "~0.8.26",
     "screenfull": "^3.3.3",
-    "ajv": "^6.6.2",
+    "ajv": "^6.12.3",
     "@delon/abc": "^7.0.0-rc.4",
     "@delon/acl": "^7.0.0-rc.4",
     "@delon/auth": "^7.0.0-rc.4",
